@@ -1,0 +1,47 @@
+.heading-section {
+
+  background: linear-gradient(180deg,rgba(242, 210, 4, 0.855), rgb(10, 213, 47));
+
+  //background: #eee; //linear-gradient(217deg, rgba(29, 57, 156, 0.8), rgba(29, 195, 255, 0.89) 70.71%);
+  opacity: 1;
+  padding: 50px;
+  padding-bottom: 75px;
+
+  h1.title {
+
+      font-weight: bold;
+      font-family: 'IBM Plex Sans', sans-serif;
+      color: rgba(36, 147, 216, 0.833);
+      //color: rgb(63, 136, 192);
+      border-style: rgb(255, 196, 0);
+      text-shadow: 0px 1px 2px rgba(rgba(21, 186, 27, 0.8), 0.82);
+      opacity: 1;
+  }
+
+  .logo {
+
+      margin-bottom: -60px;
+      width: 100px;
+  }
+
+}
+
+.container {
+  max-width: 800px;
+}
+
+.add-todo-box-container {
+  position: sticky;
+  top: 0;
+  z-index: 1;
+
+}
+
+.add-todo-box {
+  padding: 25px;
+  background: linear-gradient(180deg, rgba(4, 242, 83, 0.855),rgba(44, 4, 242, 0.855));
+  border: 0.7px solid rgb(63, 192, 121);
+  border-radius: 10px;
+  margin-top: 28px;
+  box-shadow: 0 4px 12px rgba(black, 0.2)
+}
