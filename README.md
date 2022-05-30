@@ -2,7 +2,6 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.6.
 
-Live at: https://to-do-list-angular-nu.vercel.app/
 
 ## Development server :book:
 
@@ -36,8 +35,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 **Estimated time:** 1 sprint of 1 week
 
 ## ScreenShot
-
-![alt text](https://github.com/BeitxuelaWEB/ToDoList-Angular/blob/main/src/assets/Captura.PNG)
 
  **Functional requirements:**
 
